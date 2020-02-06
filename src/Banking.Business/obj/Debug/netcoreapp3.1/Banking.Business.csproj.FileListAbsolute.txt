@@ -1,0 +1,8 @@
+C:\projects\AccountService\src\Banking.Business\bin\Debug\netcoreapp3.1\Banking.Business.deps.json
+C:\projects\AccountService\src\Banking.Business\bin\Debug\netcoreapp3.1\Banking.Business.dll
+C:\projects\AccountService\src\Banking.Business\bin\Debug\netcoreapp3.1\Banking.Business.pdb
+C:\projects\AccountService\src\Banking.Business\obj\Debug\netcoreapp3.1\Banking.Business.csprojAssemblyReference.cache
+C:\projects\AccountService\src\Banking.Business\obj\Debug\netcoreapp3.1\Banking.Business.AssemblyInfoInputs.cache
+C:\projects\AccountService\src\Banking.Business\obj\Debug\netcoreapp3.1\Banking.Business.AssemblyInfo.cs
+C:\projects\AccountService\src\Banking.Business\obj\Debug\netcoreapp3.1\Banking.Business.dll
+C:\projects\AccountService\src\Banking.Business\obj\Debug\netcoreapp3.1\Banking.Business.pdb

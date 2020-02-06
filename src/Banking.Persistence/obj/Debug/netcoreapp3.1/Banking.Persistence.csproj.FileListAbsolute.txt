@@ -1,0 +1,11 @@
+C:\projects\AccountService\src\Banking.Persistence\bin\Debug\netcoreapp3.1\Banking.Persistence.deps.json
+C:\projects\AccountService\src\Banking.Persistence\bin\Debug\netcoreapp3.1\Banking.Persistence.dll
+C:\projects\AccountService\src\Banking.Persistence\bin\Debug\netcoreapp3.1\Banking.Persistence.pdb
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.csprojAssemblyReference.cache
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.AssemblyInfoInputs.cache
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.AssemblyInfo.cs
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.dll
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.pdb
+C:\projects\AccountService\src\Banking.Persistence\bin\Debug\netcoreapp3.1\Banking.Business.dll
+C:\projects\AccountService\src\Banking.Persistence\bin\Debug\netcoreapp3.1\Banking.Business.pdb
+C:\projects\AccountService\src\Banking.Persistence\obj\Debug\netcoreapp3.1\Banking.Persistence.csproj.CopyComplete
